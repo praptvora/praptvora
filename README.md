@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning python and java
+- 🏫 I love hanging out with my friends from Nalanda
+
 <!--
 **praptvora/praptvora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
